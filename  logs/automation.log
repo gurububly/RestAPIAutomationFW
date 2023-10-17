@@ -1,0 +1,6 @@
+19:08:52.796 [main] INFO  api.testcases.UserTest - **********New user is created**************
+19:08:56.391 [main] INFO  api.testcases.UserTest - **********Verifying the newly created user**************
+19:08:57.789 [main] INFO  api.testcases.UserTest - **********Updating the created user**************
+19:08:59.029 [main] INFO  api.testcases.UserTest - ***************Read user data to check if the firstname is updated or not ***********
+19:09:00.284 [main] INFO  api.testcases.UserTest - **********After the update the response is *********
+19:09:00.284 [main] INFO  api.testcases.UserTest - **********verifying the delete user**************
