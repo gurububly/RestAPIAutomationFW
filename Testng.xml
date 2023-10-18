@@ -6,6 +6,8 @@
     <test name="ToolsQA">
         <classes>
             <class name="api.testcases.UserTest"/>
+            <class name="api.testcases.PetTest"></class>
+            <class name="api.testcases.UserDataDrivenTest"></class>
         </classes>
     </test>
 </suite>

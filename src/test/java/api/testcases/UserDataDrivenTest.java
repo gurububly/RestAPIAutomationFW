@@ -1,9 +1,8 @@
 package api.testcases;
 
 import api.endpoints.UserEndPoints;
-import api.payload.UserPayload;
+import api.payloads.UserPayload;
 import api.utilities.DataProviders;
-import api.utilities.ExcelUtils;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;

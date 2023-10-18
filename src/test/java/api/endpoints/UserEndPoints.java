@@ -1,10 +1,8 @@
 package api.endpoints;
 
-import api.payload.UserPayload;
+import api.payloads.UserPayload;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-
-import javax.swing.text.AbstractDocument;
 
 import static io.restassured.RestAssured.given;
 

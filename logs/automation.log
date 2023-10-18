@@ -1,16 +1,12 @@
-19:42:58.741 [main] INFO  api.testcases.UserTest - **********New user is created**************
-19:43:02.279 [main] INFO  api.testcases.UserTest - **********Verifying the newly created user**************
-19:43:03.612 [main] INFO  api.testcases.UserTest - **********Updating the created user**************
-19:43:04.880 [main] INFO  api.testcases.UserTest - ***************Read user data to check if the firstname is updated or not ***********
-19:43:06.133 [main] INFO  api.testcases.UserTest - **********After the update the response is *********
-19:43:06.138 [main] INFO  api.testcases.UserTest - **********verifying the delete user**************
-20:14:54.264 [main] INFO  api.testcases.UserTest - **********New user is created**************
-20:15:06.602 [main] INFO  api.testcases.UserTest - **********Verifying the newly created user**************
-20:15:06.727 [main] INFO  api.testcases.UserTest - **********Updating the created user**************
-20:15:06.821 [main] INFO  api.testcases.UserTest - **********verifying the delete user**************
-20:15:22.204 [main] INFO  api.testcases.UserTest - **********New user is created**************
-20:15:24.787 [main] INFO  api.testcases.UserTest - **********Verifying the newly created user**************
-20:15:25.969 [main] INFO  api.testcases.UserTest - **********Updating the created user**************
-20:15:27.184 [main] INFO  api.testcases.UserTest - ***************Read user data to check if the firstname is updated or not ***********
-20:15:28.324 [main] INFO  api.testcases.UserTest - **********After the update the response is *********
-20:15:28.324 [main] INFO  api.testcases.UserTest - **********verifying the delete user**************
+16:21:31.796 [main] INFO  api.testcases.UserTest - **********New user is created**************
+16:21:34.668 [main] INFO  api.testcases.UserTest - **********Verifying the newly created user**************
+16:21:35.863 [main] INFO  api.testcases.UserTest - **********Updating the created user**************
+16:21:37.029 [main] INFO  api.testcases.UserTest - ***************Read user data to check if the firstname is updated or not ***********
+16:21:38.208 [main] INFO  api.testcases.UserTest - **********After the update the response is *********
+16:21:38.208 [main] INFO  api.testcases.UserTest - **********verifying the delete user**************
+16:21:39.372 [main] INFO  api.testcases.PetTest - ********* Created new pet ***********
+16:21:40.551 [main] INFO  api.testcases.PetTest - ********* Getting the newly created pet ***********
+16:21:41.747 [main] INFO  api.testcases.PetTest - ********* Uploading the pet image ***********
+16:21:43.633 [main] INFO  api.testcases.PetTest - ********* verifying the pet status ***********
+16:21:44.743 [main] INFO  api.testcases.PetTest - ********* Updating the pet ***********
+16:21:45.902 [main] INFO  api.testcases.PetTest - ********* Deleting the pet ***********

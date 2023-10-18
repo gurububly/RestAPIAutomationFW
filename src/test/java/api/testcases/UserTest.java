@@ -1,7 +1,7 @@
 package api.testcases;
 
 import api.endpoints.UserEndPoints;
-import api.payload.UserPayload;
+import api.payloads.UserPayload;
 import com.github.javafaker.Faker;
 import io.restassured.response.Response;
 import org.testng.Assert;

@@ -21,4 +21,11 @@ public class Routes {
     /*
      pet module endpoints
      */
+
+    public static String pet_postimageURL = base_url + "/pet/{petId}/uploadImage";
+    public static String pet_postURL = base_url + "/pet";
+    public static String pet_updateURL = base_url + "/pet";
+    public static String pet_getURL = base_url + "/pet/{petId}";
+    public static String pet_deleteURL = base_url + "/pet/{petId}";
+    public static String pet_statusURL = base_url + "/pet/findByStatus";
 }
